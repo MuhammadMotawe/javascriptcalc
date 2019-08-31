@@ -3,5 +3,5 @@
 
 
 - for testing
-go to http://muhammadmotawe.me/javascriptcalc/index.html
+go to http://muhammadmotawe.me/javascriptcalc
 
