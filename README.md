@@ -3,5 +3,7 @@
 
 
 - for testing
-go to http://muhammadmotawe.me/javascriptcalc
+go to http://muhammadmotawe.me/javascriptcalc (Offline)
+
+(Discontinued)
 
